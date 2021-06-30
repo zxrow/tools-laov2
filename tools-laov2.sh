@@ -73,7 +73,7 @@ echo -e $green"Menginstall tools-darkv1 "
 sleep 1
 pkg install git
 pkg install bash
-git clone https://github.com/Hacketindonedia1/tools-darkv1
+git clone https://github.com/Z-zxQ/tools-darkv1
 clear
 echo -e $green"Berhasil Menginstall "
 cd tools-darkv1
@@ -87,7 +87,7 @@ echo -e $green"Menginstall tools-v9 "
 sleep 1
 pkg install git
 pkg install bash
-git clone https://github.com/Hacketindonedia1/toolsv9
+git clone https://github.com/Z-zxQ/toolsv9
 clear
 echo -e $green"Berhasil Menginstall "
 cd toolsv9
@@ -101,7 +101,7 @@ echo -e $green"Menginstall tools-v10 "
 sleep 1
 pkg install git
 pkg install bash
-git clone https://github.com/Hacketindonedia1/tools-v10
+git clone https://github.com/Z-zxQ/tools-v10
 clear
 echo -e $green"Berhasil Menginstall "
 cd tools-v10
@@ -115,7 +115,7 @@ echo -e $green"Menginstall phisingv2 "
 sleep 1
 pkg install git
 pkg install bash
-git clone https://github.com/Hacketindonedia1/phisingv2
+git clone https://github.com/Z-zxQ/phisingv2
 clear
 echo -e $green"Berhasil Menginstall "
 cd phisingv2
@@ -129,7 +129,7 @@ echo -e $green"Menginstall VCB.DDOS "
 sleep 1
 pkg install git
 pkg install bash
-git clone https://github.com/Hacketindonedia1/VCB.DDOS
+git clone https://github.com/Z-zxQ/VCB.DDOS
 clear
 echo -e $green"Berhasil Menginstall "
 cd VCB.DDOS
@@ -143,7 +143,7 @@ echo -e $green"Menginstall fb-crack5 "
 sleep 1
 pkg install git
 pkg install python2
-git clone https://github.com/Hacketindonedia1/fbcrack5
+git clone https://github.com/Z-zxQ/fbcrack5
 clear
 echo -e $green"Berhasil Menginstall "
 cd fb-crack5
@@ -157,7 +157,7 @@ echo -e $green"Menginstall dark-vpro "
 sleep 1
 pkg install git
 pkg install python2
-git clone https://github.com/Hacketindonedia1/dark-vpro
+git clone https://github.com/Z-zxQ/dark-vpro
 clear
 echo -e $green"Berhasil Menginstall "
 cd dark-vpro
@@ -171,7 +171,7 @@ echo -e $green"Menginstall naiTools "
 sleep 1
 pkg install git
 pkg install bash
-git clone https://github.com/Hacketindonedia1/naiTools
+git clone https://github.com/Z-zxQ/naiTools
 clear
 echo -e $green"Berhasil Menginstall "
 cd naiTools
@@ -185,7 +185,7 @@ echo -e $green"Menginstall callv2 "
 sleep 1
 pkg install git
 pkg install python2
-git clone https://github.com/Hacketindonedia1/callv2
+git clone https://github.com/Z-zxQ/callv2
 clear
 echo -e $green"Berhasil Menginstall "
 cd callv2
@@ -199,7 +199,7 @@ echo -e $green"Menginstall SPSDEFACE "
 sleep 1
 pkg install git
 pkg install bash
-git clone https://github.com/Hacketindonedia1/SPSDEFACE
+git clone https://github.com/Z-zxQ/SPSDEFACE
 clear
 echo -e $green"Berhasil Menginstall "
 cd SPSDEFACE
@@ -214,7 +214,7 @@ clear
 sleep 1
 pkg install git
 pkg install php
-git clone https://github.com/Hacketindonedia1/Spammer-Call
+git clone https://github.com/Z-zxQ/Spammer-Call
 clear
 echo -e $green"Berhasil Menginstall "
 cd Spammer-Call
@@ -229,7 +229,7 @@ clear
 sleep 1
 pkg install git
 pkg install bash
-git clone https://github.com/Hacketindonedia1/Call-New1
+git clone https://github.com/Z-zxQ/Call-New1
 clear
 echo -e $green"Berhasil Menginstall "
 cd Call-New1
@@ -244,7 +244,7 @@ echo -e $green"Menginstall Spam-V3 "
 sleep 1
 pkg install git
 pkg install bash
-git clone https://github.com/Hacketindonedia1/Spam-V3
+git clone https://github.com/Z-zxQ/Spam-V3
 clear
 echo -e $green"Berhasil Menginstall "
 cd SpamV3
@@ -258,7 +258,7 @@ echo -e $green"Meninstall Call-Spam "
 sleep 1
 pkg install git
 pkg install php
-git clone https://github.com/Hacketindonedia1/CALL-SPAM
+git clone https://github.com/Z-zxQ/CALL-SPAM
 clear
 echo -e $green"Berhasil Menginstall "
 cd CALL-SPAM
